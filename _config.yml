@@ -1,0 +1,16 @@
+url: "https://pqczoo.com"
+highlighter: pygments
+permalink: /blog/:year/:month/:title/
+
+exclude: ["Rakefile", "README.markdown"]
+
+paginate: 10
+paginate_path: "/blog/page/:num"
+
+sitename: "PQC Zoo"
+subtitle: "Collecting SCA / HW / SW implementations of PQC"
+
+author: "James Howe"
+email: "jameshoweee@gmail.com"
+
+tag_dir: "blog/tag"
