@@ -1,0 +1,27 @@
+- Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Attack Type: Cold boot attack
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+
+- name: Jane Janerson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Attack Type: Cold boot attack
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+
+- name: Jack Jackerson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Attack Type: Cold boot attack
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+
