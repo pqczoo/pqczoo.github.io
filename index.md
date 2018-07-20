@@ -6,6 +6,5 @@ layout: home
 #permalink: /404.html
 ---
 
-# 404
 
 HELLO WORLD
