@@ -1,0 +1,27 @@
+- Authors: James Howe and Tobias Oder and Markus Krausz and Tim Güneysu
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Frodo
+  Device: Artix-7 FPGA
+  Date: 17 July 2018
+  Reference: eprint/2018/686
+  Conference: CHES 2018
+
+- name: Jane Janerson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Device: Artix-7 FPGA
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+
+- name: Jack Jackerson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Device: Artix-7 FPGA
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+

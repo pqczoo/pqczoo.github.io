@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Side-Channel Analysis
-permalink: /sca/
+title: Microcontroller Designs
+permalink: /microcontroller/
 datatable: true
 ---
 
@@ -28,7 +28,7 @@ INSERT DESCRIPTION
 .
 
 
-{% assign mydata=site.data.sca %}
+{% assign mydata=site.data.microcontrollers %}
 
 <table class="table database"
        data-id-field="Authors"
@@ -40,12 +40,12 @@ INSERT DESCRIPTION
     <caption>Table caption</caption>
 
     <thead>
-    {% for column in site.data.sca[0] %}
+    {% for column in site.data.microcontrollers[0] %}
         <th> {{ column[0] }} </th>
     {% endfor %}
     </thead>
     <tbody>
-    {% for row in site.data.sca %}
+    {% for row in site.data.microcontrollers %}
         <tr>
         {% for cell in row %}
             <td>{{ cell[1] }}</td>
