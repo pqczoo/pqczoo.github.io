@@ -5,6 +5,10 @@ permalink: /sca/
 datatable: true
 ---
 
+# Side-Channel Analysis of NIST Post-Quantum Candidates
+
+Here is a searchable and sortable list of side-channel analysis results of candidates to the NIST post-quantum standardisation project. To add your own results, please follow the instructions on the [About section](https://www.pqczoo.com/about/).
+
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
