@@ -5,38 +5,33 @@ permalink: /hardware/
 datatable: true
 ---
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script type="text/javascript" src="js.min/bootstrap-table.min.js"></script>
-<script type="text/javascript" src="js.min/Chart.bundle.min.js"></script>
-<script type="text/javascript" src="js.min/datatable.min.js"></script>
-<link rel="stylesheet" href="css.min/bootstrap-table.min.css">
-<link rel="stylesheet" href="css.min/datatable.min.css">
 
-INSERT DESCRIPTION
-.
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
 
-.
-.
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
-.
-.
+<script src="/js/jquery.dataTables.js"></script>
 
-.
-.
+<script src="/js/jquery.dataTables.min.js"></script>
 
-.
-.
+<script>
 
+$(document).ready(function() {
+    $('#example').DataTable( {
+        paging: true,
+        order: [ 3, 'desc' ],
+        stateSave: true,
+        searching: true
+    } );
+} );
 
-{% assign mydata=site.data.hardware %}
+</script>
 
-<table class="table database"
-       data-id-field="Authors"
-       data-sort-name="PQC Type"
-       data-sort-order="desc"
-       data-show-chart="false"
-       data-pagination="false"
-       data-show-pagination-switch="false">
+<table id="example" class="display" style="compact">
     <caption>Table caption</caption>
 
     <thead>
