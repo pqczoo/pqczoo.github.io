@@ -6,6 +6,4 @@ layout: home
 #permalink: /404.html
 ---
 
-# __PQCzoo__
-
 A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc.
