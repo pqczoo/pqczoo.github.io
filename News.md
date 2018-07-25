@@ -26,3 +26,19 @@ Any updates from the table will appear as a news item here, linked to a Twitter 
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<ul class="news">
+      {% for post in paginator.news %}
+        <li class="news__item">
+          <a class="news__title" href="{{ post.url | prepend: site.baseurl }}">{{ news.title }}</a>
+          <div class="news__meta">
+            <b class="news__author">{{ news.author }}</b>
+            <b class="news__sep">&#x25cf;</b>
+            <b class="news__date">{{ news.date | date: "%b %-d, %Y" }}</b>
+          </div>
+
+            {{ news.excerpt }}
+          <a class="btn--default" href="{{ news.url | prepend: site.baseurl }}">Read more</a>
+        </li>
+      {% endfor %}
+    </ul>
