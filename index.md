@@ -4,7 +4,7 @@ layout: home
 order_number: 1
 ---
 
-### PQCzoo - a collection of SCA, hardware, and microcontroller designs of NIST PQC candidates
+### PQCzoo
 
 A website created to collect results relevate for the [NIST post-quantum standardisations process](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography). Topics include, but are not limited to; [side-channel analysis](https://pqczoo.com/sca/), [optimised hardware designs](https://pqczoo.com/hardware/), [optimised microcontroller designs](https://pqczoo.com/microcontroller/).
 
