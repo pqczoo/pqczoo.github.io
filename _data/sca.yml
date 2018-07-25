@@ -6,24 +6,6 @@
   Date: 12 July 2018
   Reference: eprint/2018/672
   Conference: CHES 2018
-
-- Authors: Jane Janerson
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Kyber, NewHope
-  Attack Type: Cold boot attack
-  Date: 12 July 2018
-  Reference: eprint/2018/672
-  Conference: CHES 2018
-
-- Authors: Jack Jackerson
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Kyber, NewHope
-  Attack Type: Cold boot attack
-  Date: 12 July 2018
-  Reference: eprint/2018/672
-  Conference: CHES 2018
   
 - Authors: Joppe W. Bos, Simon Friedberger, Marco Martinoli, Elisabeth Oswald, Martijn Stam
   PQC Type: Lattice-Based
