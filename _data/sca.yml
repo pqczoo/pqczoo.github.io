@@ -24,4 +24,12 @@
   Date: 12 July 2018
   Reference: eprint/2018/672
   Conference: CHES 2018
-
+  
+  - name: Joppe W. Bos and Simon Friedberger and Marco Martinoli and Elisabeth Oswald and Martijn Stam
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Frodo
+  Attack Type: Template attack, Extend and Prune
+  Date: 17 July 2018
+  Reference: eprint/2018/687
+  Conference: SAC 2018
