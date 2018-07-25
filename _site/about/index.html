@@ -7,13 +7,13 @@
 <meta name="generator" content="Jekyll v3.8.3" />
 <meta property="og:title" content="About" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc." />
-<meta property="og:description" content="PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc." />
+<meta name="description" content="PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs." />
+<meta property="og:description" content="PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs." />
 <link rel="canonical" href="http://localhost:4000/about/" />
 <meta property="og:url" content="http://localhost:4000/about/" />
 <meta property="og:site_name" content="PQCzoo" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"http://localhost:4000/about/","headline":"About","name":"PQCzoo","description":"PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc.","@context":"http://schema.org"}</script>
+{"@type":"WebSite","headline":"About","url":"http://localhost:4000/about/","name":"PQCzoo","description":"PQCzoo A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="PQCzoo" /></head>
 <body><header class="site-header" role="banner">
@@ -40,16 +40,55 @@
   </header>
 
   <div class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+    <h1 id="about">About</h1>
 
-<p>You can find the source code for Minima at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/minima">minima</a></p>
+<p>This website was created in order to help with NIST’s post-quantum standardisation process. A centralised website for these implementation results means they are much easier to find, and one can also discover what research has already been undertaken and what hasn’t.</p>
 
-<p>You can find the source code for Jekyll at GitHub:
-<a href="https://github.com/jekyll">jekyll</a> /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+<h1 id="how-to-add-your-own-results">How to add your own results</h1>
 
+<ol>
+  <li>Head to the <a href="https://github.com/pqczoo/pqczoo.github.io/">GitHub repository</a> of the website.</li>
+  <li>Find the data file of what table you wish to update:
+    <ul>
+      <li>The SCA table is found at <a href="https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/sca.yml">/_data/sca.yml</a>.</li>
+      <li>The hardware table is found at <a href="https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml">/_data/hardware.yml</a>.</li>
+      <li>The microcontrollers table is found at <a href="https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml">/_data/microcontrollers.yml</a>.</li>
+    </ul>
+  </li>
+  <li>Edit the file and add a new entry following the structure:</li>
+</ol>
+
+<ul>
+  <li>Hardware and microcontroller entries look like this:</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Frodo
+  Device: Artix-7 FPGA
+  Date: 17 July 2018
+  Reference: eprint.iacr.org/2018/686
+  Conference: CHES 2018
+</code></pre></div></div>
+
+<ul>
+  <li>SCA results looks like this:</li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber, NewHope
+  Attack Type: Cold boot attack
+  Date: 12 July 2018
+  Reference: eprint/2018/672
+  Conference: CHES 2018
+</code></pre></div></div>
+
+<ol>
+  <li>Submit this change and then create a pull request. Once this has been approved the table will automatically update.</li>
+</ol>
 
   </div>
 
@@ -69,11 +108,11 @@
           <li class="p-name">PQCzoo</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.twitter.com/pqczoo"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">pqczoo</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jameshoweee"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jameshoweee</span></a></li><li><a href="https://www.twitter.com/pqczoo"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">pqczoo</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">
-        <p>PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc.</p>
+        <p>PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs.</p>
       </div>
     </div>
 
