@@ -10,11 +10,9 @@ Here is an example of what one might like to do with a _post_ after updating the
 For example:
 
 # Standard Lattice-Based Key Encapsulation on Embedded Devices
-## by James Howe, Tobias Oder, Markus Krausz, and Tim Güneysu
+ by James Howe, Tobias Oder, Markus Krausz, and Tim Güneysu
 
-### Abstract:
-
-Lattice-based cryptography is one of the most promising candidates being
+*Abstract*: Lattice-based cryptography is one of the most promising candidates being
 considered to replace current public-key systems in the era of quantum computing. In
 2016, Bos et al. proposed the key exchange scheme FrodoCCS, that is also a submission
 to the NIST post-quantum standardization process, modified as a key encapsulation
