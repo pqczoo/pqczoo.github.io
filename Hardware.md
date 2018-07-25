@@ -8,7 +8,7 @@ order_number: 5
 
 #### Hardware designs of NIST PQC candidates
 
-Here is a searchable and sortable list of optimised hardware designs of candidates to the NIST post-quantum standardisation project. To add your own results, please follow the instructions on the [About section](https://www.pqczoo.com/about/).
+Here is a searchable and sortable list of optimised hardware designs of candidates to the NIST post-quantum standardisation project. To add your own results, please follow the instructions on the [About section](https://pqczoo.com/about/).
 
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
