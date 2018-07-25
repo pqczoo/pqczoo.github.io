@@ -17,7 +17,7 @@ This website was created in order to help with NIST's post-quantum standardisati
   - The microcontrollers table is found at [/_data/microcontrollers.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml).
 3. Edit the file and add a new entry following the structure:
     
-- Hardware and microcontroller entries look like this:
+  - Hardware and microcontroller entries look like this:
     
 ```
 - Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
@@ -30,7 +30,7 @@ This website was created in order to help with NIST's post-quantum standardisati
   Conference: CHES 2018
 ```
     
-- SCA results looks like this:
+  - SCA results looks like this:
     
 ```
 - Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
