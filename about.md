@@ -8,11 +8,11 @@ This website was created in order to help with NIST's post-quantum standardisati
 
 1. Head to the [GitHub repository](https://github.com/pqczoo/pqczoo.github.io/) of the website.
 2. Find the data file of what table you wish to update:
-⋅⋅* The SCA table is found at [/_data/sca.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/sca.yml).
-⋅⋅* The hardware table is found at [/_data/hardware.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml). 
-⋅⋅* The microcontrollers table is found at [/_data/microcontrollers.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml).
+  - The SCA table is found at [/_data/sca.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/sca.yml).
+  - The hardware table is found at [/_data/hardware.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml). 
+  - The microcontrollers table is found at [/_data/microcontrollers.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml).
 3. Edit the file and add a new entry following the structure:
-⋅⋅* Hardware and microcontroller entries look like this:
+  - Hardware and microcontroller entries look like this:
 ```
 - Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
   PQC Type: Lattice-Based
@@ -23,7 +23,7 @@ This website was created in order to help with NIST's post-quantum standardisati
   Reference: eprint.iacr.org/2018/686
   Conference: CHES 2018
 ```
-⋅⋅* SCA results looks like this:
+  - SCA results looks like this:
 ```
 - Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
   PQC Type: Lattice-Based
