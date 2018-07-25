@@ -16,9 +16,9 @@
 title: PQCzoo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs, etc.
+  PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pqczoo.com"
 twitter_username: pqczoo
 github_username:  jameshoweee
 
