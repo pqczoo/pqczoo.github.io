@@ -25,6 +25,16 @@ Here is a searchable and sortable list of side-channel analysis results of candi
 
 $(document).ready(function() {
     $('#example').DataTable( {
+      "columns": [
+    { "width": "20%" },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
         paging: true,
         order: [ 3, 'desc' ],
         stateSave: true,
