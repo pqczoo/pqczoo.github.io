@@ -15,7 +15,7 @@ This website was created in order to help with NIST's post-quantum standardisati
 2. Find the data file of what table you wish to update:
   - The SCA table is found at [/_data/sca.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/sca.yml).
   - The hardware table is found at [/_data/hardware.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml). 
-  - The microcontrollers table is found at [/_data/microcontrollers.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml).
+  - The microcontrollers table is found at [/_data/microcontrollers.yml](https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/microcontrollers.yml).
 3. Edit the file and add a new entry following the structure:
   - Hardware and microcontroller entries look like this:
     
