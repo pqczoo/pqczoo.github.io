@@ -55,39 +55,37 @@
       <li>The microcontrollers table is found at <a href="https://github.com/pqczoo/pqczoo.github.io/blob/master/_data/hardware.yml">/_data/microcontrollers.yml</a>.</li>
     </ul>
   </li>
-  <li>Edit the file and add a new entry following the structure:</li>
-</ol>
+  <li>Edit the file and add a new entry following the structure:
+    <ul>
+      <li>Hardware and microcontroller entries look like this:</li>
+    </ul>
 
-<ul>
-  <li>Hardware and microcontroller entries look like this:</li>
-</ul>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> - Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
+   PQC Type: Lattice-Based
+   Crypto Type: KEM
+   Crypto Target: Frodo
+   Device: Artix-7 FPGA
+   Date: 17 July 2018
+   Reference: eprint.iacr.org/2018/686
+   Conference: CHES 2018
+</code></pre></div>    </div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Frodo
-  Device: Artix-7 FPGA
-  Date: 17 July 2018
-  Reference: eprint.iacr.org/2018/686
-  Conference: CHES 2018
-</code></pre></div></div>
+    <ul>
+      <li>SCA results looks like this:</li>
+    </ul>
 
-<ul>
-  <li>SCA results looks like this:</li>
-</ul>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Kyber, NewHope
-  Attack Type: Cold boot attack
-  Date: 12 July 2018
-  Reference: eprint/2018/672
-  Conference: CHES 2018
-</code></pre></div></div>
-
-<ol>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> - Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
+   PQC Type: Lattice-Based
+   Crypto Type: KEM
+   Crypto Target: Kyber, NewHope
+   Attack Type: Cold boot attack
+   Date: 12 July 2018
+   Reference: eprint/2018/672
+   Conference: CHES 2018
+</code></pre></div>    </div>
+  </li>
   <li>Submit this change and then create a pull request. Once this has been approved the table will automatically update.</li>
+  <li>(Optional) Please add a new post about your addition! To do this just copy and paste the example file in the directory <a href="https://github.com/pqczoo/pqczoo.github.io/tree/master/_posts">_posts</a>, and rename the file to your choosing, but please ensure the file name begins with the date of the post. The example just includes the paper’s abstract, but feel free to add more details if desired!</li>
 </ol>
 
   </div>

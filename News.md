@@ -2,43 +2,16 @@
 layout: page
 title: News
 permalink: /news/
+order_number: 3
 ---
 
-Any updates from the table will appear as a news item here, linked to a Twitter page.
+Updates from any of the tables will appear as a new post, hopefully linked to a Twitter page too.
 
-<!-----add latest updates at the top ---->
-
-- Side-channel analysis
-	- Albrecht, M, Paterson, K & Deo, R, 2018, 'Cold Boot Attacks on Ring and Module LWE Keys Under the NTT', TCHES, vol 2018, no. 3.
-
-<br/>
-
-- Hardware designs
-	- Howe, J, Tobias, O, Krausz, M, Güneysu, T, 2018, 'Standard Lattice-Based Key Encapsulation on Embedded Devices', TCHES, vol 2018, no. 3.
-
-<br/>
-
-- Microcontroller designs
-	- Howe, J, Tobias, O, Krausz, M, Güneysu, T, 2018, 'Standard Lattice-Based Key Encapsulation on Embedded Devices', TCHES, vol 2018, no. 3.
-
-<ul class="posts">
+<ul>
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li>
+	<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
   {% endfor %}
 </ul>
-
-<ul class="news">
-      {% for post in paginator.news %}
-        <li class="news__item">
-          <a class="news__title" href="{{ post.url | prepend: site.baseurl }}">{{ news.title }}</a>
-          <div class="news__meta">
-            <b class="news__author">{{ news.author }}</b>
-            <b class="news__sep">&#x25cf;</b>
-            <b class="news__date">{{ news.date | date: "%b %-d, %Y" }}</b>
-          </div>
-
-            {{ news.excerpt }}
-          <a class="btn--default" href="{{ news.url | prepend: site.baseurl }}">Read more</a>
-        </li>
-      {% endfor %}
-    </ul>

@@ -3,9 +3,10 @@ layout: page
 title: Hardware Designs
 permalink: /hardware/
 datatable: true
+order_number: 5
 ---
 
-# Optimised Hardware Designs
+#### Hardware designs of NIST PQC candidates
 
 Here is a searchable and sortable list of optimised hardware designs of candidates to the NIST post-quantum standardisation project. To add your own results, please follow the instructions on the [About section](https://www.pqczoo.com/about/).
 
@@ -35,7 +36,7 @@ $(document).ready(function() {
 </script>
 
 <table id="example" class="display" style="compact">
-    <caption>Table caption</caption>
+    <caption> </caption>
 
     <thead>
     {% for column in site.data.hardware[0] %}

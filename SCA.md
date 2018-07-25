@@ -3,9 +3,10 @@ layout: page
 title: Side-Channel Analysis
 permalink: /sca/
 datatable: true
+order_number: 4
 ---
 
-# Side-Channel Analysis of NIST Post-Quantum Candidates
+#### Side-channel analysis of NIST PQC candidates
 
 Here is a searchable and sortable list of side-channel analysis results of candidates to the NIST post-quantum standardisation project. To add your own results, please follow the instructions on the [About section](https://www.pqczoo.com/about/).
 
@@ -45,7 +46,7 @@ $(document).ready(function() {
 </script>
 
 <table id="example" class="display" style="compact">
-    <caption>Table caption</caption>
+    <caption> </caption>
 
     <thead>
     {% for column in site.data.sca[0] %}
