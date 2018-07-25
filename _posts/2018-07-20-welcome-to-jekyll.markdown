@@ -32,5 +32,5 @@ to the reference implementation and needs 266 ms for key pair generation, 284 ms
 encapsulation, and 286 ms for decapsulation. Our results contribute to the practical
 evaluation of a post-quantum standardization candidate.
 
-[https://eprint.iacr.org/2018/686.pdf]: https://eprint.iacr.org/2018/686.pdf
+[https://eprint.iacr.org/2018/686.pdf](https://eprint.iacr.org/2018/686.pdf)
 
