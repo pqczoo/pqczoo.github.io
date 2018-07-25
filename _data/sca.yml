@@ -1,4 +1,4 @@
-- Authors: Martin R. Albrecht and Amit Deo and Kenneth G. Paterson
+- Authors: Martin R. Albrecht, Amit Deo, Kenneth G. Paterson
   PQC Type: Lattice-Based
   Crypto Type: KEM
   Crypto Target: Kyber, NewHope
@@ -25,7 +25,7 @@
   Reference: eprint/2018/672
   Conference: CHES 2018
   
-- Authors: Joppe W. Bos and Simon Friedberger and Marco Martinoli and Elisabeth Oswald and Martijn Stam
+- Authors: Joppe W. Bos, Simon Friedberger, Marco Martinoli, Elisabeth Oswald, Martijn Stam
   PQC Type: Lattice-Based
   Crypto Type: KEM
   Crypto Target: Frodo
