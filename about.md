@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 This website was created in order to help with NIST's post-quantum standardisation process. A centralised website for these implementation results means they are much easier to find, and one can also discover what research has already been undertaken and what hasn't.
+
+# How to add your own results
 
 1. Head to the [GitHub repository](https://github.com/pqczoo/pqczoo.github.io/) of the website.
 2. Find the data file of what table you wish to update:
