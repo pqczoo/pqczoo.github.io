@@ -34,4 +34,4 @@ This website was created in order to help with NIST's post-quantum standardisati
   Reference: eprint/2018/672
   Conference: CHES 2018
 ```
-
+4. Submit this change and then create a pull request. Once this has been approved the table will automatically update.
