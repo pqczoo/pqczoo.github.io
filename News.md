@@ -21,3 +21,4 @@ Any updates from the table will appear as a news item here, linked to a Twitter 
 
 - Microcontroller designs
 	- Howe, J, Tobias, O, Krausz, M, Güneysu, T, 2018, 'Standard Lattice-Based Key Encapsulation on Embedded Devices', TCHES, vol 2018, no. 3.
+
