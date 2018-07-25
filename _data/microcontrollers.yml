@@ -15,12 +15,3 @@
   Date: 16 July 2018
   Reference: eprint/2018/682
   Conference: CHES 2018
-
-- Authors: Jack Jackerson
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Kyber, NewHope
-  Device: Cortex M4
-  Date: 17 July 2018
-  Reference: eprint/2018/686
-  Conference: CHES 2018
