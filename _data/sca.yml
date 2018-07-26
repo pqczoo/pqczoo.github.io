@@ -15,3 +15,13 @@
   Date: 17 July 2018
   Reference: eprint/2018/687
   Conference: SAC 2018
+
+- Authors: Matthias J. Kannwischer, Aymeric Genêt, Denis Butin, Juliane Krämer, Johannes Buchmann
+  PQC Type: Hash-Based
+  Crypto Type: Signature
+  Crypto Target: XMSS, SPHINCS
+  Attack Type: DPA
+  Date: 11 April 2018
+  Reference: eprint/2018/673
+  Conference: COSADE 2018
+
