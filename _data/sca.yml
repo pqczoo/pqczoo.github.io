@@ -15,3 +15,12 @@
   Date: 17 July 2018
   Reference: eprint/2018/687
   Conference: SAC 2018
+  
+- Authors: Leon Groot Bruinderink, Peter Pessl
+  PQC Type: Lattice-Based
+  Crypto Type: Signature
+  Crypto Target: Dilithium, qTesla
+  Attack Type: Differential fault attack
+  Date: 16 April 2018
+  Reference: eprint/2018/355
+  Conference: CHES 2018
