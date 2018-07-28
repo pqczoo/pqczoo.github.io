@@ -24,3 +24,12 @@
   Date: 16 April 2018
   Reference: eprint/2018/355
   Conference: CHES 2018
+
+- Authors: Aydin Aysu, Youssef Tobah, Mohit Tiwari, Andreas Gerstlauer, Michael Orshansky
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: NewHope, Frodo
+  Attack Type: Horizontal differential power analysis
+  Date: 14 June 2018
+  Reference: https://ieeexplore.ieee.org/document/8383894/
+  Conference: HOST 2018
