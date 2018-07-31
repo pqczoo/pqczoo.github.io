@@ -16,7 +16,7 @@
 title: PQCzoo
 email: james.howe@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, optimised software designs.
+  PQCzoo | A website created to collect results relevate for the NIST post-quantum standardisations process. Topics include, but are not limited to, side-channel analysis, optimised hardware designs, and optimised software designs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pqczoo.com"
 twitter_username: pqczoo
