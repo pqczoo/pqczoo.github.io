@@ -26,7 +26,7 @@ This website was created in order to help with NIST's post-quantum standardisati
       Crypto Target: Frodo
       Device: Artix-7 FPGA
       Date: 17 July 2018
-      Reference: eprint.iacr.org/2018/686
+      Reference: eprint/2018/686
       Conference: CHES 2018
     ```
     
