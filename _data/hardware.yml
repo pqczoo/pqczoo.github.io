@@ -7,3 +7,11 @@
   Reference: eprint/2018/686
   Conference: CHES 2018
 
+- Authors: Wen Wang, Jakub Szefer, Ruben Niederhagen
+  PQC Type: Code-Based
+  Crypto Type: KEM
+  Crypto Target: Classic McEliece
+  Device: not decvice-specific
+  Date: 06 August 2018
+  Reference: eprint/2017/1180
+  Conference: CHES 2017
