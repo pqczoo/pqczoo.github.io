@@ -11,7 +11,7 @@
   PQC Type: Code-Based
   Crypto Type: KEM
   Crypto Target: Classic McEliece
-  Device: not decvice-specific
+  Device: Stratix V FPGA
   Date: 18 May 2018
   Reference: eprint/2017/1180
   Conference: PQCrypto 2018
