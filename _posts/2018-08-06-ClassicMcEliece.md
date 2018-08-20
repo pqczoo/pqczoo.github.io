@@ -5,7 +5,7 @@ date:   2018-08-06
 categories: hadware design
 ---
 
-# FPGA-based Niederreiter Cryptosystem using Binary Goppa Codes
+## FPGA-based Niederreiter Cryptosystem using Binary Goppa Codes
  by Wen Wang, Jakub Szefer, and Ruben Niederhagen
 
 **_Abstract_**: This paper presents an FPGA implementation of the Niederreiter
