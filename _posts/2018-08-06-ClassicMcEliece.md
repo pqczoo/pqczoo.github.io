@@ -2,7 +2,7 @@
 layout: post
 title:  "Classic McEliece"
 date:   2018-08-06
-categories: hadware design
+categories: hardware design
 ---
 
 ## FPGA-based Niederreiter Cryptosystem using Binary Goppa Codes
