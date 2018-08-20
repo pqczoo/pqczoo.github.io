@@ -9,7 +9,7 @@ Here is an example of what one might like to do with a _post_ after updating the
 
 For example:
 
-# Standard Lattice-Based Key Encapsulation on Embedded Devices
+## Standard Lattice-Based Key Encapsulation on Embedded Devices
  by James Howe, Tobias Oder, Markus Krausz, and Tim Güneysu
 
 **_Abstract_**: Lattice-based cryptography is one of the most promising candidates being
