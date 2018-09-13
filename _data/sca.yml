@@ -24,3 +24,12 @@
   Date: 16 April 2018
   Reference: eprint/2018/355
   Conference: CHES 2018
+
+- Authors: Prasanna Ravi, Mahabir P. Jhanwar, James Howe, Anupam Chattopadhyay, Shivam Bhasin
+  PQC Type: Lattice-Based
+  Crypto Type: Signature
+  Crypto Target: Dilithium
+  Attack Type: Power analysis
+  Date: 3 September 2018
+  Reference: eprint/2018/821
+  Conference: N/A
