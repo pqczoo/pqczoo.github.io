@@ -33,3 +33,12 @@
   Date: 3 September 2018
   Reference: eprint/2018/821
   Conference: N/A
+  
+  - Authors: Aesun Park, Kyung-Ah Shim, Namhun Koo, Dong-Guk Han
+  PQC Type: Multivariate Quadratic
+  Crypto Type: Signature
+  Crypto Target: LUOV, Rainbow, HiMQ-3
+  Attack Type: Correlation power analysis 
+  Date: 16 August 2018
+  Reference: tches.iacr.org
+  Conference: CHES 2018
