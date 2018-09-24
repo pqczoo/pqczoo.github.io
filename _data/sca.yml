@@ -51,3 +51,12 @@
   Date: 4 April 2018
   Reference: eprint/2018/318
   Conference: ASIACRYPT 2018
+  
+- Authors: Élise Barelli, Alain Couvreur
+  PQC Type: Code-based
+  Crypto Type: Encryption
+  Crypto Target: DAGS
+  Attack Type: Cryptanalysis 
+  Date: 15 May 2018
+  Reference: eprint/2018/456
+  Conference: ASIACRYPT 2018
