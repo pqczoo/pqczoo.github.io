@@ -42,3 +42,12 @@
   Date: 16 August 2018
   Reference: tches.iacr.org
   Conference: CHES 2018
+  
+- Authors: Ward Beullens, Simon R. Blackburn
+  PQC Type: Braid groups
+  Crypto Type: Signature
+  Crypto Target: WalnutDSA
+  Attack Type: Cryptanalysis 
+  Date: 4 April 2018
+  Reference: eprint/2018/318
+  Conference: ASIACRYPT 2018
