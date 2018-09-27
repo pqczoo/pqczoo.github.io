@@ -47,7 +47,7 @@
   PQC Type: Braid groups
   Crypto Type: Signature
   Crypto Target: WalnutDSA
-  Attack Type: Cryptanalysis 
+  Attack Type: Cryptanalysis, forgery
   Date: 4 April 2018
   Reference: eprint/2018/318
   Conference: ASIACRYPT 2018
@@ -59,4 +59,13 @@
   Attack Type: Cryptanalysis 
   Date: 15 May 2018
   Reference: eprint/2018/456
+  Conference: ASIACRYPT 2018
+  
+- Authors: Thomas Debris-Alazard Jean-Pierre Tillich
+  PQC Type: Code-based
+  Crypto Type: Signature
+  Crypto Target: RankSign
+  Attack Type: Cryptanalysis, algebraic
+  Date: 10 April 2018
+  Reference: eprint/2018/339
   Conference: ASIACRYPT 2018
