@@ -42,3 +42,12 @@
   Date: 16 July 2018
   Reference: eprint/2018/682
   Conference: CHES 2018
+  
+- Authors: Markku-Juhani O. Saarinen, Sauvik Bhattacharya, Oscar Garcia-Morchon, Ronald Rietman, Ludo Tolhuizen, Zhenfei Zhang
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Round5
+  Device: ARM Cortex-M4
+  Date: 3 Aug 2018
+  Reference: eprint/2018/723
+  Conference: CARDIS 2018
