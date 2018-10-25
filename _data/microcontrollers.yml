@@ -23,7 +23,7 @@
   Device: Infineon SLE78CLUFX500
   Date: 9 May 2018
   Reference: eprint/2018/425
-  Conference: N/A
+  Conference: CHES 2019
   
 - Authors: Hwajeong Seo, Zhe Liu, Patrick Longa, Zhi Hu
   PQC Type: Supersingular Isogeny
@@ -51,3 +51,12 @@
   Date: 3 Aug 2018
   Reference: eprint/2018/723
   Conference: CARDIS 2018
+  
+- Authors: Matthias J. Kannwischer, Joost Rijneveld, Peter Schwabe
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Lizard, NTRU-HRSS, NTRUEncrypt, Saber, Kindi
+  Device: ARM Cortex-M4
+  Date: 19 Oct 2018
+  Reference: eprint/2018/1018
+  Conference: N/A
