@@ -7,15 +7,6 @@
   Reference: eprint/2018/686
   Conference: CHES 2018
 
-- Authors: Angshuman Karmakar, Jose Maria Bermudo Mera, Sujoy Sinha Roy, Ingrid Verbauwhede
-  PQC Type: Lattice-Based
-  Crypto Type: KEM
-  Crypto Target: Saber
-  Device: ARM Cortex M4
-  Date: 16 July 2018
-  Reference: eprint/2018/682
-  Conference: CHES 2018
-
 - Authors: Martin R. Albrecht, Christian Hanser, Andrea Hoeller, Thomas Pöppelmann, Fernando Virdia, Andreas Wallner
   PQC Type: Lattice-Based
   Crypto Type: KEM
