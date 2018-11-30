@@ -51,3 +51,13 @@
   Date: 19 Oct 2018
   Reference: eprint/2018/1018
   Conference: N/A
+
+- Authors: Tim Güneysu, Markus Krausz, Tobias Oder, Julian Speith
+  PQC Type: Lattice-Based
+  Crypto Type: Sign
+  Crypto Target: Dilithium
+  Device: ARM Cortex-M4
+  Date: 26 Nov 2018
+  Reference: N/A
+  Conference: ICECS 2018
+  
