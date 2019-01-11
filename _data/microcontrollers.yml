@@ -61,3 +61,11 @@
   Reference: N/A
   Conference: ICECS 2018
   
+- Authors: Joppe W. Bos, Simon Friedberger, Marco Martinoli, Elisabeth Oswald, Martijn Stam
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Frodo
+  Device: ARM Cortex-M4
+  Date: 16 November 2018
+  Reference: eprint/2018/1116
+  Conference: N/A
