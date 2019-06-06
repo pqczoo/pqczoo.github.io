@@ -15,3 +15,13 @@
   Date: 18 May 2018
   Reference: eprint/2017/1180
   Conference: PQCrypto 2018
+  
+  
+- Authors: Debapriya Basu Roy, Debdeep Mukhopadhyay
+  PQC Type: Isogeny Based
+  Crypto Type: KEM
+  Crypto Target: SIKE 
+  Device: Virtex-7
+  Date: 6th June, 2019
+  Reference: eprint/2019/568
+  Conference: 
