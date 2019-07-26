@@ -61,7 +61,7 @@
   Reference: eprint/2018/456
   Conference: ASIACRYPT 2018
   
-- Authors: Thomas Debris-Alazard Jean-Pierre Tillich
+- Authors: Thomas Debris-Alazard, Jean-Pierre Tillich
   PQC Type: Code-based
   Crypto Type: Signature
   Crypto Target: RankSign
@@ -69,3 +69,12 @@
   Date: 10 April 2018
   Reference: eprint/2018/339
   Conference: ASIACRYPT 2018
+
+- Authors: Prasanna Ravi, Mahabir Prasad Jhanwar, James Howe, Anupam Chattopadhyay, Shivam Bhasin
+  PQC Type: Lattice-Based
+  Crypto Type: Signature
+  Crypto Target: Dilithium, qTESLA
+  Attack Type: Fault attacks
+  Date: 1 July 2019
+  Reference: eprint/2019/769
+  Conference: ASIA CCS 2019
