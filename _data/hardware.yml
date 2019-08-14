@@ -25,3 +25,12 @@
   Date: 6 June 2019
   Reference: eprint/2019/568
   Conference: 
+
+- Authors: Utsav Banerjee, Tenzin S. Ukyab, Anantha P. Chandrakasan 
+  PQC Type: Lattice-Based
+  Crypto Type: KEM, Signature
+  Crypto Target: NewHope, Kyber, Frodo, qTesla, Dilithium
+  Device: ASIC
+  Date: 9 August 2019
+  Reference: tches.iacr.org
+  Conference: CHES 2019
