@@ -69,3 +69,23 @@
   Date: 16 November 2018
   Reference: eprint/2018/1116
   Conference: N/A
+  
+- Authors: Leon Botros, Matthias J. Kannwischer, Peter Schwabe
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: Kyber
+  Device: ARM Cortex-M4
+  Date: 13 May 2019
+  Reference: eprint/2019/489
+  Conference: Africacrypt 2019
+
+- Authors: Matthias J. Kannwischer, Joost Rijneveld, Peter Schwabe, Ko Stoffelen
+  PQC Type: various
+  Crypto Type: KEM + Sign
+  Crypto Target: various
+  Device: ARM Cortex-M4
+  Date: 19 Jul 2019
+  Reference: eprint/2019/844
+  Conference: NIST PQC 2019
+ 
+  
