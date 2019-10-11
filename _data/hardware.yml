@@ -34,3 +34,42 @@
   Date: 9 August 2019
   Reference: tches.iacr.org
   Conference: CHES 2019
+
+- Authors: Tim Fritzmann, Johanna Sepúlveda
+  PQC Type: Lattice-Based
+  Crypto Type: KEM, Signature
+  Crypto Target: Number Theoretic Transform
+  Device: Zynq-7000, ASIC
+  Date: 6 May 2019
+  Reference: https://ieeexplore.ieee.org/document/8741027
+  Conference: HOST 2019
+
+- Authors: Tim Fritzmann, Uzair Sharif, Daniel Müller-Gritschneder, Cezar Reinbrecht, Ulf Schlichtmann, Johanna Sepúlveda
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: NewHope
+  Device: Zynq-7000 / RISC-V (co-design)
+  Date: 26 March 2019
+  Reference: https://ieeexplore.ieee.org/document/8715173
+  Conference: DATE 2019
+
+- Authors: Tim Fritzmann, Thomas Schamberger, Christoph Frisch, Konstantin Braun, Georg Maringer, Johanna Sepúlveda
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: NTRU (IEEE 1363.1)
+  Device: UltraScale+ (co-design)
+  Date: 8 October 2018
+  Reference: https://link.springer.com/chapter/10.1007/978-3-030-23425-6_13
+  Conference: VLSI-SoC 2018 (Extension)
+
+- Authors: Konstantin Braun, Tim Fritzmann, Georg Maringer, Thomas Schamberger, Johanna Sepúlveda
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: NTRU (IEEE 1363.1)
+  Device: Zynq-7000
+  Date: 8 October 2018
+  Reference: https://ieeexplore.ieee.org/document/8645015
+  Conference: VLSI-SoC 2018
+
+
+
