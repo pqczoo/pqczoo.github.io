@@ -34,3 +34,12 @@
   Date: 9 August 2019
   Reference: tches.iacr.org
   Conference: CHES 2019
+
+- Authors: Tim Fritzmann, Uzair Sharif, Daniel Müller-Gritschneder, Cezar Reinbrecht, Ulf Schlichtmann, Johanna Sepúlveda
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: NewHope
+  Device: Zynq-7000 / RISC-V (co-design)
+  Date: 26 March 2019
+  Reference: https://ieeexplore.ieee.org/document/8715173
+  Conference: DATE 2019
