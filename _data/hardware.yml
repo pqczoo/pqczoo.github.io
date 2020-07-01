@@ -15,10 +15,9 @@
   Date: 18 May 2018
   Reference: eprint/2017/1180
   Conference: PQCrypto 2018
-  
-  
+
 - Authors: Debapriya Basu Roy, Debdeep Mukhopadhyay
-  PQC Type: Isogeny Based
+  PQC Type: Isogeny-Based
   Crypto Type: KEM
   Crypto Target: SIKE 
   Device: Virtex-7
@@ -43,3 +42,12 @@
   Date: 26 March 2019
   Reference: https://ieeexplore.ieee.org/document/8715173
   Conference: DATE 2019
+
+- Authors: Pedro Maat C. Massolino, Patrick Longa, Joost Renes, Lejla Batina
+  PQC Type: Isogeny-Based
+  Crypto Type: KEM
+  Crypto Target: SIKE
+  Device: Virtex-7 FPGA, Artix-7 FPGA
+  Date: 14 January 2020
+  Reference: eprint/2020/040
+  Conference: CHES 2020
