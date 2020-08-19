@@ -1,11 +1,20 @@
 - Authors: James Howe, Tobias Oder, Markus Krausz, Tim Güneysu
   PQC Type: Lattice-Based
   Crypto Type: KEM
-  Crypto Target: Frodo
+  Crypto Target: FrodoKEM
   Device: Artix-7 FPGA
   Date: 17 July 2018
   Reference: eprint/2018/686
   Conference: CHES 2018
+  
+- Authors: James Howe, Marco Martinoli, Elisabeth Oswald, Francesco Regazzoni
+  PQC Type: Lattice-Based
+  Crypto Type: KEM
+  Crypto Target: FrodoKEM
+  Device: Artix-7 FPGA
+  Date: 24 August 2019
+  Reference: https://csrc.nist.gov/events/2019/second-pqc-standardization-conference
+  Conference: NIST's Second PQC Standardization Conference
 
 - Authors: Wen Wang, Jakub Szefer, Ruben Niederhagen
   PQC Type: Code-Based
