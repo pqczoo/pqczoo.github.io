@@ -60,3 +60,12 @@
   Date: 14 January 2020
   Reference: eprint/2020/040
   Conference: CHES 2020
+
+- Authors: Daniel Kales, Sebastian Ramacher, Christian Rechberger, Roman Walch, Mario Werner
+  PQC Type: Symmetric-Based
+  Crypto Type: Sign
+  Crypto Target: Picnic
+  Device: Kintex-7 FPGA, Artix-7 FPGA
+  Date: 14 February 2020
+  Reference: eprint/2019/1368
+  Conference: CT-RSA 2020
